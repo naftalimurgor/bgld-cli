@@ -15,6 +15,7 @@ A CLI tool for interacting with the Bitgesell blockchain network for managing:
 npm i -g bgld-cli # yarn add --global bgld-cli
 ```
 
+> `bgld-cli` is still in beta.
 ## Usage
 
 Basic help and `bgld-cli` version can be checked by simply typing the following on a terminal.
